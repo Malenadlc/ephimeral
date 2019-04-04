@@ -101,7 +101,10 @@ textarea {
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+*{
+  font-family: 'Playfair Display', serif;
+font-family: 'Noto Serif TC', serif;
+}
 
 
 
