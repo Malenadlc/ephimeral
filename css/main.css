@@ -106,10 +106,23 @@ textarea {
 }
 
 
+.logo{
+  max-width: 50%;
+  width: 50%;
+}
 
 
+.intro{
+  text-align: center;
+}
 
+.margin{
+  margin: 30px;
+}
 
+.social-icons{
+  margin: 12px;
+}
 
 
 
